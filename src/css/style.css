@@ -22,3 +22,6 @@ header{
     height: 44px;
     background: blue;
 }
+.swiper-container{
+    width:100%;
+}
